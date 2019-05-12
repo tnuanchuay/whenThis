@@ -1,4 +1,4 @@
-package when_this
+package whenThis
 
 type whenThis struct {
 	condition     bool
